@@ -36,6 +36,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" >
 <img align="left" alt="Jupyter" width="26px" src="https://i.ibb.co/r2GsFdp/jupyter.png" >
 <img align="left" alt="Amazon Web Services" width="26px" src="https://img.icons8.com/color/24/000000/amazon-web-services.png" >
+<br>
 <img align="left" alt="GCP Cloud" width="26px" src="https://img.icons8.com/color/24/000000/google-cloud-platform.png" >
 <img align="left" alt="Cloud Computing" width="26px" src="https://img.icons8.com/cotton/24/000000/cloud-computing.png" >
 <img align="left" alt="Big Data" width="26px" src="https://img.icons8.com/fluent/24/000000/database.png" >
