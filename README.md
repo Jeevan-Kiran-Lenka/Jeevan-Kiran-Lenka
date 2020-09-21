@@ -38,7 +38,7 @@
 <img  align = "left" alt="Amazon Web Services" width="26px" src="https://img.icons8.com/color/24/000000/amazon-web-services.png" >
 <img  align = "left" alt="GCP Cloud" width="26px" src="https://img.icons8.com/color/24/000000/google-cloud-platform.png" >
 <img  align = "left" alt="Cloud Computing" width="26px" src="https://img.icons8.com/cotton/24/000000/cloud-computing.png" >
-<img  align = "left down" alt="Big Data" width="26px" src="https://img.icons8.com/fluent/24/000000/database.png"  >
+<img  align = "left down" alt="Big Data" width="26px" src="https://img.icons8.com/fluent/24/000000/database.png" >
 <img  align = "left" alt="Hadoop" width="26px" src="https://img.icons8.com/color/24/000000/hadoop-distributed-file-system.png" >
 <img  align = "left" alt="Data Science" width="26px" src="https://img.icons8.com/ios-filled/30/000000/science-application.png" >
 <img  align = "left" alt="BootStrap" width="26px" src="https://img.icons8.com/color/30/000000/bootstrap.png" >
