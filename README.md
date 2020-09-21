@@ -14,7 +14,7 @@
 [<img align="left" alt="jeevan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="jeevan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -43,8 +43,8 @@
 <img align="left" alt="Data Science" width="26px" src="https://img.icons8.com/ios-filled/30/000000/science-application.png" >
 <img align="left" alt="BootStrap" width="26px" src="https://img.icons8.com/color/30/000000/bootstrap.png" >
 
-<br />
-<br />
+<br>
+<br>
 
 [twitter]: https://twitter.com/prateeklenka286
 [instagram]: https://www.instagram.com/jee1_____/
