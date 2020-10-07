@@ -69,6 +69,6 @@
 
 [twitter]: https://twitter.com/prateeklenka286
 [instagram]: https://www.instagram.com/jee1_____/
-[linkedin]: www.linkedin.com/in/jeevan-lenka
+[linkedin]: https://www.linkedin.com/in/jeevan-lenka
 [facebook]: https://facebook.com/jeevankiran.lenka.3
  
