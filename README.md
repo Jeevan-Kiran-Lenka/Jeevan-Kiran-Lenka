@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other open source enthusiasts
 - 🥅 2021 Goals: Contribute more to Open Source projects, Create solutions for problems of Sustainable Enviornment
 - ⚡ Fun fact: I love to read, binge watch and play guitar 🎸 / piano 🎹  and also to sing 🎵 and play foot⚽
+- Show some love by starring my repos
 
 ### Connect with me:
 
