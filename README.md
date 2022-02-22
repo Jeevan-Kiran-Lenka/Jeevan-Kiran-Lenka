@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on something exciting 😉
 - 🌱 I’m currently learning [Deep Learning, Data Science](https://becominghuman.ai/machine-learning-vs-deep-learning-vs-data-science-484cfa520bf7) and also [Web Development](https://g.co/kgs/stHUQe)
 - 👯 I’m looking to collaborate with other open source enthusiasts
-- 🥅 2021 Goals: Contribute more to Open Source projects, Create solutions for problems of Sustainable Enviornment
+- 🥅 2022 Goals: Contribute more to Open Source projects, Create solutions for problems of Sustainable Enviornment
 - ⚡ Fun fact: I love to read, binge watch and play guitar 🎸 / piano 🎹  and also to sing 🎵 and play foot⚽
 - Show some love by starring my repos
 
@@ -14,6 +14,12 @@
 [<img align="left" alt="jeevan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jeevan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="jeevan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+<br>
+<br>
+
+### My Blogs
+[<img align="left" alt="jeevan | Hashnode" width="22px" src="https://hashnode.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1638876167681%2FY8t9TLws1.png%3Fw%3D200%26h%3D200%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" />][hashnode]
 
 <br>
 <br>
@@ -72,4 +78,5 @@
 [instagram]: https://www.instagram.com/jee1_____/
 [linkedin]: https://www.linkedin.com/in/jeevan-lenka
 [facebook]: https://facebook.com/jeevankiran.lenka.3
+[hashnode]: https://linutic.hashnode.dev/
  
