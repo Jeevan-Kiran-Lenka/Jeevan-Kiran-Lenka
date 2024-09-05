@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on something exciting 😉
 - 🌱 I’m currently learning and also [Web Development](https://g.co/kgs/stHUQe)
 - 👯 I’m looking to collaborate with other open source enthusiasts
-- 🥅 2023 Goals: Contribute more to Open Source projects,collaborate more
+- 🥅 Goals: Contribute more to Open Source projects,collaborate more
 - ⚡ Fun fact: I love to read, and play guitar 🎸 / piano 🎹  and also to sing 🎵 and play foot⚽
 - Show some love by starring my repos
 
