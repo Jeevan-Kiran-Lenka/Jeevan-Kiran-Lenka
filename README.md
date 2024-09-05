@@ -74,7 +74,7 @@
 <br>
 
 [twitter]: https://twitter.com/jee1_____
-[instagram]: https://www.instagram.com/jee1_____/
+[instagram]: https://www.instagram.com/jeevanlenka/
 [linkedin]: https://www.linkedin.com/in/jeevan-lenka
 [facebook]: https://facebook.com/jeevankiran.lenka.3
 [hashnode]: https://linutic.hashnode.dev/
