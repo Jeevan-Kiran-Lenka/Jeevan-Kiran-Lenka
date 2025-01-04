@@ -2,7 +2,6 @@
 
 ## I'm a Friend, Student, Developer, and Learner!
 - 🔭 I’m currently working on something exciting 😉
-- 🌱 I’m currently learning and also [Web Development](https://g.co/kgs/stHUQe)
 - 👯 I’m looking to collaborate with other open source enthusiasts
 - 🥅 Goals: Contribute more to Open Source projects,collaborate more
 - ⚡ Fun fact: I love to read, and play guitar 🎸 / piano 🎹  and also to sing 🎵 and play foot⚽
